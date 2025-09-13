@@ -1,4 +1,4 @@
-# ADA-1[QUICK-SORT ALGORITHM]
+# ADA-1
 package java1;
 
 import java.util.Scanner; 
